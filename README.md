@@ -1,15 +1,13 @@
-# today
+# todyeo app
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot 2025-03-18 230220](https://github.com/user-attachments/assets/8b3e651e-ab3b-48e4-b57d-12eb112af048)
+![Screenshot 2025-03-18 230155](https://github.com/user-attachments/assets/3efb1e2d-d7d7-4576-b6f0-23b8ee148ef6)
+![Screenshot 2025-03-18 230141](https://github.com/user-attachments/assets/e78dbd8b-9ebc-4288-b18e-27e818c25944)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
