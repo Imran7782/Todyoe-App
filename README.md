@@ -22,11 +22,17 @@ I created Todeyo as a personal productivity tool and a learning project to pract
 
 
 
+## 📱 App Screenshots
 
-![tody3_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/b206d67f-30cb-4c3b-98fe-048d7da3b804)
-![Screenshot 2025-03-18 230155](https://github.com/user-attachments/assets/3efb1e2d-d7d7-4576-b6f0-23b8ee148ef6)
-![Screenshot 2025-03-18 230141](https://github.com/user-attachments/assets/e78dbd8b-9ebc-4288-b18e-27e818c25944)
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+|![tody3_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/6027bee0-3b32-459b-b3c6-888314be7905) |![tody_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/19f61efd-d29e-4357-9872-3e4d28351457)|
 
+
+
+
+
+![tody1_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/09c30d5d-5a79-479b-b7f6-b043287ae964)
 
 
 
