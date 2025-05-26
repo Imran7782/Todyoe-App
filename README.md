@@ -1,4 +1,4 @@
-## 📝 Todeyo – Smart Note-Taking App
+## 📝 Todyoe – Smart Note-Taking App
 Todeyo is a lightweight, responsive note-taking app built to help users quickly add, view, and remove notes with ease. Designed with simplicity and productivity in mind, Todeyo delivers a clean user interface that works seamlessly across all screen sizes.
 
 ## 🔧 Key Features
